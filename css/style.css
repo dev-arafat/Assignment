@@ -81,3 +81,34 @@ h1{
     box-shadow: 10px 10px 10px 10px rgb(195, 195, 195);
     border-radius: 3%;
 }
+.add-all{
+  display: flex;
+}
+.add-all{
+    width:95%;
+    height: 6%;
+    margin-left:2%;
+    box-shadow: 10px 10px 10px 10px rgb(195, 195, 195);
+}
+.Y{
+    margin-left: 100px;
+}
+.ins{
+    margin-left:300px ;
+}
+.like{
+    margin-left:300px ;
+}
+.text-color{
+    color:orange;
+}
+.footer-color{
+    color: wheat;
+}
+.footer{
+    background-color: rgb(18, 22, 27);
+    margin-top: 10%;
+    padding: 10px;
+    text-align: center;
+}
+
